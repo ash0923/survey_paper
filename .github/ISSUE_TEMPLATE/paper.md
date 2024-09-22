@@ -12,46 +12,22 @@ name: Paper Summary
 about: Summarize the key points of a surveyed paper
 title: "[Survey] Paper Title"
 labels: paper-summary
-assignees: ''
+assignees: ''"
 
 ---
 
-## Paper Information
+# Paper Information
 
 - **Title**: 
 - **Authors**: 
 - **Year Published**: 
 - **Publication Venue/Journal**: 
 - **DOI/Link**: [Link](URL)
+- **PDF**: 
 
-## Abstract
-
-Provide a concise summary of the paper’s objectives, background, and main content.
-
-## Key Contributions
-
-1. 
-2. 
-3. 
-
-## Methodology
-
-Describe the methods or approaches used in the research.
-
-## Results
-
-Outline the main findings or results of the study.
-
-## Discussion
-
-Discuss the interpretation of the results, limitations of the study, and future work.
-
-## Keywords
-
-- Keyword1
-- Keyword2
-- Keyword3
-
-## Comments
-
-Include any additional observations or related information.
+## どんなもの？
+## 先行研究と比べてどこがすごいの？
+## 技術や手法の"キモ"はどこにある？
+## どうやって有効だと検証した？
+## 議論はあるか？
+## 次に読むべき論文はあるか？
